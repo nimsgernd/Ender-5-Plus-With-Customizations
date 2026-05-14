@@ -1,5 +1,7 @@
 # ESP3D 3.0 ![ESP3D](https://img.shields.io/badge/dynamic/json?label=ESP3D&query=$.version&url=https://raw.githubusercontent.com/luc-github/ESP3D/refs/heads/3.0/info.json)
-
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 <img src="https://github.com/luc-github/ESP3D/blob/3.0/images/Screen/logo2.png">
 Firmware for ESP8266/ESP8285 and ESP32 (original, pico, S2, S3, C3, C6) used with 3D printer/Sand-Table and CNC 
 
@@ -7,10 +9,15 @@ To compile ESP3D you need to edit the configuration.h according your needs.
 You can also generate it, using [![Development  Version](https://img.shields.io/badge/ESP3D-Configurator-red?style=for-the-badge&logo=preact)](https://luc-github.github.io/) which simplify a lot this step.   
 or click here: https://luc-github.github.io/      
 
-ESP3D V3 use ESP3D-WebUI 3.0, but it is built according your system and your system firmware:   
- https://github.com/luc-github/ESP3D-WEBUI/tree/3.0/dist/, so you need to use the right one, the [ESP3D-Configurator](https://luc-github.github.io/) may also help you to download the correct version for your needs.
+ESP3D 3.0 use [![Development  Version](https://img.shields.io/badge/Devt-v3.0-yellow?style=plastic&label=ESP3D-WEBUI)](https://github.com/luc-github/ESP3D-WEBUI/tree/3.0), but it is built according your system and your system firmware:[![Development  Version](https://img.shields.io/badge/Devt-v3.0-yellow?style=plastic&label=WebUI%20Packages)](https://github.com/luc-github/ESP3D-WEBUI/tree/3.0/dist/). 
 
-[Latest development version ![Development Version](https://img.shields.io/badge/Devt-v3.0-yellow?style=plastic) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/luc-github/ESP3D/3.0?style=plastic)](https://github.com/luc-github/ESP3D/tree/3.0) [![github-ci](https://github.com/luc-github/ESP3D/workflows/build-ci/badge.svg)](https://github.com/luc-github/ESP3D/actions/workflows/build-ci.yml) [![Development  Version](https://img.shields.io/badge/Devt-v3.0-yellow?style=plastic&label=WebUI)](https://github.com/luc-github/ESP3D-WEBUI/tree/3.0)
+so you need to use the right one, the [ESP3D-Configurator](https://luc-github.github.io/) may also help you to download the correct version for your needs.
+
+![Development](https://img.shields.io/badge/dynamic/json?label=Development&query=$.devt&color=green&style=plastic&url=https://raw.githubusercontent.com/luc-github/ESP3D/refs/heads/3.0/info.json)
+[![Development  Version](https://img.shields.io/badge/Devt-v3.0-yellow?style=plastic&label=ESP3D-WEBUI)](https://github.com/luc-github/ESP3D-WEBUI/tree/3.0)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/luc-github/ESP3D/3.0?style=plastic)
+[![github-ci](https://github.com/luc-github/ESP3D/workflows/build-ci/badge.svg)](https://github.com/luc-github/ESP3D/actions/workflows/build-ci.yml)
+
 
 Please go to [esp3d.io](http://esp3d.io/esp3d/v3.x/index.html) for documentation and installation
 
@@ -117,6 +124,21 @@ Please use discord : [![discord](https://img.shields.io/discord/7528221487955969
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/BerranRemzi"><img src="https://avatars.githubusercontent.com/u/11856339?v=4?s=100" width="100px;" alt="Berran Remzi"/><br /><sub><b>Berran Remzi</b></sub></a><br /><a href="https://github.com/luc-github/ESP3D/issues?q=author%3ABerranRemzi" title="Bug reports">🐛</a> <a href="https://github.com/luc-github/ESP3D/commits?author=BerranRemzi" title="Code">💻</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
